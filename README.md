@@ -1142,6 +1142,7 @@ Make AI Actually Do Things
 - [Buildel](https://www.agenthunter.io/agent/buildel?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-agents) - AI automation platform for building workflows without code
 
 - [Replit Agent](https://www.agenthunter.io/agent/replit-agent?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-agents) - AI-powered coding assistant integrated into Replit's browser-based IDE
+- [Future AGI](https://github.com/future-agi/future-agi) - Open-source platform for agent simulation, evaluating, tracing, guarding, and auto-improving AI agents.
 - [Helicone AI](https://www.agenthunter.io/agent/helicone-ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-agents) - The all-in-one platform to monitor, debug and improve
 production-ready LLM applications.
 - [Harpa AI](https://www.agenthunter.io/agent/harpa-ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-agents) - AI-powered browser extension for automation and productivity tasks.
