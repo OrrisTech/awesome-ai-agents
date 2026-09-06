@@ -1363,6 +1363,7 @@ production-ready LLM applications.
 - [Devika AI](https://www.agenthunter.io/agent/devika-ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-agents) - An open-source autonomous AI software engineer designed to autonomously write and fix code.
 - [Devin AI](https://www.agenthunter.io/agent/devin-ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-agents) - Autonomous AI software engineer developed by Cognition
 - [AutoGPT](https://www.agenthunter.io/agent/autogpt?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-agents) - AI agent that autonomously performs tasks by breaking them down into subtasks.
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code agent skills for SEO, GEO, Google Ads, and Meta Ads; connects to live account data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 
 ## Contribution
 
