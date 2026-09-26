@@ -11,6 +11,7 @@ Willkommen im Awesome AI Agents Verzeichnis! Dies ist eine sorgfältig kuratiert
 KI-Agenten nach Branchen kategorisiert:
 
 - [Consumer & Industry Solutions](https://www.agenthunter.io/industry/consumer-industry-solutions?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-agents)
+- **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** - AI-powered coding toolbar for any web app. Captures element context, previews diffs, and applies approved changes through a reverse proxy.
 - [Marketing, Sales & E-commerce](https://www.agenthunter.io/industry/marketing-sales-ecommerce?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-agents)
 - [Business Operations & Productivity](https://www.agenthunter.io/industry/business-operations-productivity?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-agents)
 - [Content & Media Creation](https://www.agenthunter.io/industry/content-media-creation?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-agents)
@@ -899,7 +900,8 @@ Make AI Actually Do Things
 - [Unleash.so](https://www.agenthunter.io/agent/unleashso?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-agents) - Save months building AI assistants with Unleash's 70+ integrations to leading SaaS tools
 - [GoodGist](https://www.agenthunter.io/agent/goodgist?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-agents) - Agentic AI Workflow Automation Platform
 - [HAPAX](https://www.agenthunter.io/agent/hapax?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-agents) - Outsmart the Future
-- [Regal AI Phone Agent](https://www.agenthunter.io/agent/regal-ai-phone-agent?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-agents) - See how AI can transform every customer conversation—right now. Ready to hear the difference?
+- [Regal AI Phone Agent](https://www.agenthunter.io/agent/regal-ai-phone-agent?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-agents) - See how AI can transform every customer conversation—right now.
+Ready to hear the difference?
 - [Recrubo.ai](https://www.agenthunter.io/agent/recruboai?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-agents) - Accelerate your hiring | Volume hiring via chat 🚀
 - [BOTfriends X](https://www.agenthunter.io/agent/botfriends-x?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-agents) - Chatbots, Voicebots & Task Automation – One AI Platform, Endless Potential.
 - [PrimeCX](https://www.agenthunter.io/agent/primecx?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-agents) - PrimeCX.ai automates customer support, lead generation, and booking in one platform.
