@@ -1364,6 +1364,7 @@ production-ready LLM applications.
 - [Devin AI](https://www.agenthunter.io/agent/devin-ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-agents) - Autonomous AI software engineer developed by Cognition
 - [AutoGPT](https://www.agenthunter.io/agent/autogpt?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-agents) - AI agent that autonomously performs tasks by breaking them down into subtasks.
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code agent skills for SEO, GEO, Google Ads, and Meta Ads; connects to live account data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
+- [YYLO](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries; isolates each task in a dedicated branch/worktree.
 
 ## Contribution
 
