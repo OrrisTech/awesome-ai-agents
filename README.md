@@ -1365,6 +1365,7 @@ production-ready LLM applications.
 - [AutoGPT](https://www.agenthunter.io/agent/autogpt?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-agents) - AI agent that autonomously performs tasks by breaking them down into subtasks.
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code agent skills for SEO, GEO, Google Ads, and Meta Ads; connects to live account data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 - [YYLO](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries; isolates each task in a dedicated branch/worktree.
+- [deed.page](https://github.com/f-o-x11/deed-page-skill) - MIT-licensed agent skill and hosted remote MCP server that let coding agents publish HTML or a static folder to a permanent public URL with one request; no account needed.
 
 ## Contribution
 
