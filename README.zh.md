@@ -1363,6 +1363,7 @@ production-ready LLM applications.
 - [Devika AI](https://www.agenthunter.io/agent/devika-ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-agents) - An open-source autonomous AI software engineer designed to autonomously write and fix code.
 - [Devin AI](https://www.agenthunter.io/agent/devin-ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-agents) - Autonomous AI software engineer developed by Cognition
 - [AutoGPT](https://www.agenthunter.io/agent/autogpt?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-agents) - AI agent that autonomously performs tasks by breaking them down into subtasks.
+- [agent-qa](https://vostride.com) - 以自然语言测试网页、Android 和 iOS，结合 memidex 持久记忆、证据驱动的自我改进与 CLI/MCP 集成。
 
 ## 贡献
 
