@@ -1366,6 +1366,7 @@ production-ready LLM applications.
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code agent skills for SEO, GEO, Google Ads, and Meta Ads; connects to live account data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 - [YYLO](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries; isolates each task in a dedicated branch/worktree.
 - [OpenMagic](https://github.com/Kalmuraee/OpenMagic) - AI-powered coding toolbar for any web app. Captures element context, previews diffs, and applies approved changes through a reverse proxy.
+- [DisconfirmAI](https://disconfirmai.com/en) - AI investment research and reading agent that looks for evidence against your thesis before you commit. Daily source reading, filings and data research, condition-based radar scans and a personal investment framework.
 
 ## Contribution
 
